@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Start  bootstrap ~~~"
+/opt/php80/bin/php   ./index.php
